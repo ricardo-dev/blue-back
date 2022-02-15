@@ -41,4 +41,5 @@ public class BlueTechApplication {
 		img2.setImovel(imovel);
 		this.imagemService.inserir(img2);
 	}
+	
 }
